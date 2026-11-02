@@ -3,7 +3,7 @@
 \overrideIEEEmargins
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage{amsmath,amssymb,graphicx,booktabs,float,gensymb}
+\usepackage{amsmath,amssymb,graphicx,booktabs,float,gensymb,url}
 
 \newcommand{\RNum}[1]{\uppercase\expandafter{\romannumeral #1\relax}}
 
@@ -213,6 +213,8 @@ Therefore, the model based on the first order carrier release should be regarded
 \section{COMPUTATIONAL METHOD}
 
 The computational investigation was implemented in Go to generate synthetic TSC signals and evaluate the ability of numerical fitting procedures to distinguish closely spaced trap levels.
+
+The complete Go implementation, numerical experiments, and reproducibility instructions are publicly available at \url{https://github.com/aadi-bhattacharya/trap-electronics}.
 
 The forward model uses the first order release equations to calculate the temperature dependent contribution of each trap population.
 
