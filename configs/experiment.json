@@ -1,0 +1,9 @@
+{
+  "start_K": 100,
+  "end_K": 340,
+  "step_K": 0.5,
+  "heating_K_per_s": 0.05,
+  "reference_peak_K": 230,
+  "reference_energy_eV": 0.26,
+  "seed": 20261102
+}

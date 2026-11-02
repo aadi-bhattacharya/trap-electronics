@@ -1,0 +1,37 @@
+[
+  {
+    "separation_meV": 2,
+    "trials": 200,
+    "two_preferred": 0,
+    "both_accurate": 0,
+    "one_peak": 200
+  },
+  {
+    "separation_meV": 5,
+    "trials": 200,
+    "two_preferred": 138,
+    "both_accurate": 67,
+    "one_peak": 200
+  },
+  {
+    "separation_meV": 10,
+    "trials": 200,
+    "two_preferred": 200,
+    "both_accurate": 199,
+    "one_peak": 200
+  },
+  {
+    "separation_meV": 15,
+    "trials": 200,
+    "two_preferred": 200,
+    "both_accurate": 200,
+    "one_peak": 200
+  },
+  {
+    "separation_meV": 20,
+    "trials": 200,
+    "two_preferred": 200,
+    "both_accurate": 200,
+    "one_peak": 200
+  }
+]

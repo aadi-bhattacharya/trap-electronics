@@ -1,0 +1,20 @@
+[
+  {
+    "scenario": "matched",
+    "trials": 200,
+    "naive_false_two": 0,
+    "alternative_wins": 0
+  },
+  {
+    "scenario": "constant-background",
+    "trials": 200,
+    "naive_false_two": 200,
+    "alternative_wins": 200
+  },
+  {
+    "scenario": "temperature-weighting",
+    "trials": 200,
+    "naive_false_two": 200,
+    "alternative_wins": 171
+  }
+]
